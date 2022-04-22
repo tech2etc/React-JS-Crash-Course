@@ -20,3 +20,6 @@ In this course, we are going to learn
 - Most importantly we will learn the Best File & Folder Structure you should follow..... and much more.
 
 By building our react js portfolio we will try to cover all these topics.
+
+# Setup
+- run ```npm i && npm start```
